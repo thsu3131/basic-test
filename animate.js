@@ -23,6 +23,11 @@ function power3(timeFractoin) {
     return Math.pow(timeFraction, 3);
 }
 
+function power4(timeFraction) {
+    return Math.pow(timeFraction, 4);
+   
+
+}
 
 function OnePointFiveBack(timeFraction) {
     var x = 1.5;
