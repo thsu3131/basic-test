@@ -25,8 +25,10 @@ function power3(timeFractoin) {
 
 function power4(timeFraction) {
     return Math.pow(timeFraction, 4);
-   
+}
 
+function power5(timeFraction) {
+    return Math.pow(timeFraction, 5);
 }
 
 function OnePointFiveBack(timeFraction) {
