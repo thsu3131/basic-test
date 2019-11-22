@@ -24,6 +24,7 @@ function power3(timeFractoin) {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 function power4(timeFraction) {
     return Math.pow(timeFraction, 4);
 }
@@ -31,6 +32,8 @@ function power4(timeFraction) {
 function power5(timeFraction) {
     return Math.pow(timeFraction, 5);
 }
+=======
+>>>>>>> parent of ff5ff7c... add power4 1
 =======
 >>>>>>> parent of ff5ff7c... add power4 1
 
