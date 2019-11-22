@@ -23,19 +23,9 @@ function power3(timeFractoin) {
     return Math.pow(timeFraction, 3);
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-function power4(timeFraction) {
-    return Math.pow(timeFraction, 4);
-}
-
 function power5(timeFraction) {
     return Math.pow(timeFraction, 5);
 }
-=======
->>>>>>> parent of ff5ff7c... add power4 1
-=======
->>>>>>> parent of ff5ff7c... add power4 1
 
 function OnePointFiveBack(timeFraction) {
     var x = 1.5;
@@ -46,7 +36,6 @@ function TwoBack(timeFraction){
     var x = 2;
     return Math.pow(timeFraction, 2) * ((x + 1) * timeFraction - x);
 }
-
 
 function bounce(timeFraction) {
     for(let a = 0, b = 1, result; 1; a+=b, b/=2) {
